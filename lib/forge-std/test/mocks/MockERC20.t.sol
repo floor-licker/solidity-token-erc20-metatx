@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.7.0 <0.9.0;
 
 import {MockERC20} from "../../src/mocks/MockERC20.sol";
 import {StdCheats} from "../../src/StdCheats.sol";
